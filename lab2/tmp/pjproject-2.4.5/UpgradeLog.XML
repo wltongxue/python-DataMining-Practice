@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="pjproject-vs8">
+</Property><Property Name="解决方案文件" Value="E:\学术研究生\研一上学期\计算机网络实验\工具\pjproject-2.4.5\pjproject-2.4.5\pjproject-vs8.sln">
+</Property><Property Name="Date" Value="2018年10月22日">
+</Property><Property Name="Time" Value="17:01">
+</Property></Properties><Event ErrorLevel="1" Project="pjlib" Source="pjlib\build\pjlib.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjlib" Source="pjlib\build\pjlib.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjlib" Source="pjlib\build\pjlib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjlib_test" Source="pjlib\build\pjlib_test.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjlib_test" Source="pjlib\build\pjlib_test.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjlib_test" Source="pjlib\build\pjlib_test.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjlib_test" Source="pjlib\build\pjlib_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjlib_util" Source="pjlib-util\build\pjlib_util.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjlib_util" Source="pjlib-util\build\pjlib_util.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjlib_util" Source="pjlib-util\build\pjlib_util.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjlib_util_test" Source="pjlib-util\build\pjlib_util_test.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjlib_util_test" Source="pjlib-util\build\pjlib_util_test.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjlib_util_test" Source="pjlib-util\build\pjlib_util_test.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjlib_util_test" Source="pjlib-util\build\pjlib_util_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjmedia" Source="pjmedia\build\pjmedia.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjmedia" Source="pjmedia\build\pjmedia.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjmedia" Source="pjmedia\build\pjmedia.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjmedia_codec" Source="pjmedia\build\pjmedia_codec.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjmedia_codec" Source="pjmedia\build\pjmedia_codec.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjmedia_codec" Source="pjmedia\build\pjmedia_codec.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjsip_core" Source="pjsip\build\pjsip_core.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsip_core" Source="pjsip\build\pjsip_core.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsip_core" Source="pjsip\build\pjsip_core.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjsip_simple" Source="pjsip\build\pjsip_simple.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsip_simple" Source="pjsip\build\pjsip_simple.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsip_simple" Source="pjsip\build\pjsip_simple.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjsip_ua" Source="pjsip\build\pjsip_ua.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsip_ua" Source="pjsip\build\pjsip_ua.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsip_ua" Source="pjsip\build\pjsip_ua.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjsua" Source="pjsip-apps\build\pjsua.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjsua" Source="pjsip-apps\build\pjsua.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsua" Source="pjsip-apps\build\pjsua.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsua" Source="pjsip-apps\build\pjsua.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjsua_lib" Source="pjsip\build\pjsua_lib.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsua_lib" Source="pjsip\build\pjsua_lib.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsua_lib" Source="pjsip\build\pjsua_lib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sample_debug" Source="pjsip-apps\build\sample_debug.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="sample_debug" Source="pjsip-apps\build\sample_debug.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="sample_debug" Source="pjsip-apps\build\sample_debug.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="sample_debug" Source="pjsip-apps\build\sample_debug.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjnath" Source="pjnath\build\pjnath.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjnath" Source="pjnath\build\pjnath.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjnath" Source="pjnath\build\pjnath.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libgsmcodec" Source="third_party\build\gsm\libgsmcodec.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libgsmcodec" Source="third_party\build\gsm\libgsmcodec.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libgsmcodec" Source="third_party\build\gsm\libgsmcodec.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libilbccodec" Source="third_party\build\ilbc\libilbccodec.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libilbccodec" Source="third_party\build\ilbc\libilbccodec.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libilbccodec" Source="third_party\build\ilbc\libilbccodec.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libportaudio" Source="third_party\build\portaudio\libportaudio.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libportaudio" Source="third_party\build\portaudio\libportaudio.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libportaudio" Source="third_party\build\portaudio\libportaudio.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libresample" Source="third_party\build\resample\libresample.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libresample" Source="third_party\build\resample\libresample.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libresample" Source="third_party\build\resample\libresample.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libspeex" Source="third_party\build\speex\libspeex.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libspeex" Source="third_party\build\speex\libspeex.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libspeex" Source="third_party\build\speex\libspeex.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libmilenage" Source="third_party\build\milenage\libmilenage.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libmilenage" Source="third_party\build\milenage\libmilenage.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libmilenage" Source="third_party\build\milenage\libmilenage.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libsrtp" Source="third_party\build\srtp\libsrtp.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libsrtp" Source="third_party\build\srtp\libsrtp.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libsrtp" Source="third_party\build\srtp\libsrtp.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjnath_test" Source="pjnath\build\pjnath_test.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjnath_test" Source="pjnath\build\pjnath_test.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjnath_test" Source="pjnath\build\pjnath_test.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjnath_test" Source="pjnath\build\pjnath_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjmedia_test" Source="pjmedia\build\pjmedia_test.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjmedia_test" Source="pjmedia\build\pjmedia_test.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjmedia_test" Source="pjmedia\build\pjmedia_test.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjmedia_test" Source="pjmedia\build\pjmedia_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjmedia_audiodev" Source="pjmedia\build\pjmedia_audiodev.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjmedia_audiodev" Source="pjmedia\build\pjmedia_audiodev.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjmedia_audiodev" Source="pjmedia\build\pjmedia_audiodev.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libg7221codec" Source="third_party\build\g7221\libg7221codec.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libg7221codec" Source="third_party\build\g7221\libg7221codec.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libg7221codec" Source="third_party\build\g7221\libg7221codec.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="samples" Source="pjsip-apps\build\samples.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="samples" Source="pjsip-apps\build\samples.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="samples" Source="pjsip-apps\build\samples.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjsip_test" Source="pjsip\build\pjsip_test.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjsip_test" Source="pjsip\build\pjsip_test.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsip_test" Source="pjsip\build\pjsip_test.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsip_test" Source="pjsip\build\pjsip_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libpjproject" Source="pjsip-apps\build\libpjproject.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libpjproject" Source="pjsip-apps\build\libpjproject.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libpjproject" Source="pjsip-apps\build\libpjproject.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="python_pjsua" Source="pjsip-apps\build\python_pjsua.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="python_pjsua" Source="pjsip-apps\build\python_pjsua.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="python_pjsua" Source="pjsip-apps\build\python_pjsua.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="python_pjsua" Source="pjsip-apps\build\python_pjsua.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pjsystest" Source="pjsip-apps\build\pjsystest.vcproj" Description="已不再支持对本地 IIS 服务器的 Web 部署。Web 部署生成工具已从项目设置中删除。">
+</Event><Event ErrorLevel="1" Project="pjsystest" Source="pjsip-apps\build\pjsystest.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsystest" Source="pjsip-apps\build\pjsystest.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsystest" Source="pjsip-apps\build\pjsystest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjmedia_videodev" Source="pjmedia\build\pjmedia_videodev.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjmedia_videodev" Source="pjmedia\build\pjmedia_videodev.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjmedia_videodev" Source="pjmedia\build\pjmedia_videodev.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libbaseclasses" Source="third_party\build\baseclasses\libbaseclasses.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="libbaseclasses" Source="third_party\build\baseclasses\libbaseclasses.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="libbaseclasses" Source="third_party\build\baseclasses\libbaseclasses.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="pjsua2_lib" Source="pjsip\build\pjsua2_lib.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="pjsua2_lib" Source="pjsip\build\pjsua2_lib.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="pjsua2_lib" Source="pjsip\build\pjsua2_lib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="pjproject-vs8.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="pjproject-vs8.sln" Description="Converted">
+</Event></UpgradeLog>
